@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CRA_FTime_GITPAGE/static/css/main.4ff7073c.chunk.css",
-    "main.js": "/CRA_FTime_GITPAGE/static/js/main.374d02b6.chunk.js",
-    "main.js.map": "/CRA_FTime_GITPAGE/static/js/main.374d02b6.chunk.js.map",
+    "main.js": "/CRA_FTime_GITPAGE/static/js/main.21cb71df.chunk.js",
+    "main.js.map": "/CRA_FTime_GITPAGE/static/js/main.21cb71df.chunk.js.map",
     "runtime-main.js": "/CRA_FTime_GITPAGE/static/js/runtime-main.e5b6131a.js",
     "runtime-main.js.map": "/CRA_FTime_GITPAGE/static/js/runtime-main.e5b6131a.js.map",
     "static/js/2.8ad3c05e.chunk.js": "/CRA_FTime_GITPAGE/static/js/2.8ad3c05e.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.e5b6131a.js",
     "static/js/2.8ad3c05e.chunk.js",
     "static/css/main.4ff7073c.chunk.css",
-    "static/js/main.374d02b6.chunk.js"
+    "static/js/main.21cb71df.chunk.js"
   ]
 }
